@@ -4,7 +4,7 @@ MineSweeper is an Android game app wirtten in java.
 
 What the app does:
 ```java
-- Asking user to choose the midth and the height of the gameboard.
+- Asking user to choose the width and the height of the gameboard.
 - Creating a gameboard basing on user's choice from option.
 - Randomly deploying "mines" onto the gameboard.
 - Asking the user to seek mines using information shown on screen.
